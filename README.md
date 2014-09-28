@@ -12,6 +12,7 @@ Under the Hood
 
 Directory Structure
 ===================
+```
 myapp
 ├── frontend
 |  ├── styles
@@ -20,3 +21,4 @@ myapp
 ├── public
 |  ├── dist
 |  |  ├── js,css,images compiled here
+```
